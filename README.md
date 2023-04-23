@@ -30,6 +30,15 @@
   ```
   streamlit run LM_Detection.py
   ```
+  
+##Pip library Versions :
+
+- streamlit = Version: 1.10.0
+- numpy = Version: 1.19.5
+- Pillow = Version: 8.4.0
+- pandas = Version: 0.25.3
+- geopy = Version: 2.2.0
+- tensorflow = Version: 2.6.0
 
 ## Screenshots
 
